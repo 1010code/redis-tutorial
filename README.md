@@ -71,7 +71,7 @@ npm install redis --save
 ```
 
 ## 建立 `index.js`
-在 [Redis](https://github.com/NodeRedis/node_redis) 的 GitHub 上有非常詳細的使用教學，我這邊直接複製上面並稍做修改。
+在 [Redis](https://github.com/NodeRedis/node_redis) 的 GitHub 上有非常詳細的使用教學，我這邊直接複製上面並稍做修改。
 
 ```js
 const redis = require('redis');
@@ -101,7 +101,7 @@ $ node index.js
 
 
 ## 小結
-這篇教學主要是帶各位快速上手 Redis 有興趣可以深入詳讀官方文件，裡面有提供非常多的功能，有興趣可以來玩玩看～
+這篇教學主要是帶各位快速上手 Redis 有興趣可以深入詳讀官方文件，裡面有提供非常多的功能，有興趣可以來玩玩看～
 
 範例程式碼：https://github.com/1010code/redis-tutorial
 
