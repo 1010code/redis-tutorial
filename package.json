@@ -1,5 +1,23 @@
 {
+  "name": "redis-tutorial",
+  "description": "redis tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "redis": "^2.8.0"
-  }
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1010code/redis-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1010code/redis-tutorial/issues"
+  },
+  "homepage": "https://github.com/1010code/redis-tutorial#readme"
 }
